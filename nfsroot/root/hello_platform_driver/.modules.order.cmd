@@ -1,0 +1,1 @@
+cmd_/home/pablo/ISO_II/nfsroot/root/hello_platform_driver/modules.order := {   echo /home/pablo/ISO_II/nfsroot/root/hello_platform_driver/hello_platform_driver.ko; :; } | awk '!x[$$0]++' - > /home/pablo/ISO_II/nfsroot/root/hello_platform_driver/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/pablo/ISO_II/nfsroot/root/wait_queue/my_wq.ko := arm-linux-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pablo/ISO_II/nfsroot/root/wait_queue/my_wq.ko /home/pablo/ISO_II/nfsroot/root/wait_queue/my_wq.o /home/pablo/ISO_II/nfsroot/root/wait_queue/my_wq.mod.o;  true

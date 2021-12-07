@@ -1,0 +1,1 @@
+cmd_/home/pablo/ISO_II/nfsroot/root/hello_world/modules.order := {   echo /home/pablo/ISO_II/nfsroot/root/hello_world/hello_world.ko; :; } | awk '!x[$$0]++' - > /home/pablo/ISO_II/nfsroot/root/hello_world/modules.order

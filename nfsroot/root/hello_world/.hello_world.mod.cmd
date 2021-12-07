@@ -1,0 +1,1 @@
+cmd_/home/pablo/ISO_II/nfsroot/root/hello_world/hello_world.mod := { echo  /home/pablo/ISO_II/nfsroot/root/hello_world/hello_world.o;  echo; } > /home/pablo/ISO_II/nfsroot/root/hello_world/hello_world.mod

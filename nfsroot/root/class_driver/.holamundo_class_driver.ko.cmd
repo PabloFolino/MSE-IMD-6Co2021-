@@ -1,0 +1,1 @@
+cmd_/home/pablo/ISO_II/nfsroot/root/class_driver/holamundo_class_driver.ko := arm-linux-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pablo/ISO_II/nfsroot/root/class_driver/holamundo_class_driver.ko /home/pablo/ISO_II/nfsroot/root/class_driver/holamundo_class_driver.o /home/pablo/ISO_II/nfsroot/root/class_driver/holamundo_class_driver.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/pablo/ISO_II/nfsroot/root/class_driver/holamundo_class_driver.mod := { echo  /home/pablo/ISO_II/nfsroot/root/class_driver/holamundo_class_driver.o;  echo; } > /home/pablo/ISO_II/nfsroot/root/class_driver/holamundo_class_driver.mod

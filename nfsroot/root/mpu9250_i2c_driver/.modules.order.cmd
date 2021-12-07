@@ -1,0 +1,1 @@
+cmd_/home/pablo/ISO_II/nfsroot/root/mpu9250_i2c_driver/modules.order := {   echo /home/pablo/ISO_II/nfsroot/root/mpu9250_i2c_driver/mpu9250_i2c_driver.ko; :; } | awk '!x[$$0]++' - > /home/pablo/ISO_II/nfsroot/root/mpu9250_i2c_driver/modules.order

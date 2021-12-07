@@ -1,0 +1,1 @@
+cmd_/home/pablo/ISO_II/nfsroot/root/hello_world/Module.symvers := sed 's/ko$$/o/' /home/pablo/ISO_II/nfsroot/root/hello_world/modules.order | scripts/mod/modpost -m -a   -o /home/pablo/ISO_II/nfsroot/root/hello_world/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/pablo/ISO_II/nfsroot/root/timer/my_timer.ko := arm-linux-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pablo/ISO_II/nfsroot/root/timer/my_timer.ko /home/pablo/ISO_II/nfsroot/root/timer/my_timer.o /home/pablo/ISO_II/nfsroot/root/timer/my_timer.mod.o;  true
